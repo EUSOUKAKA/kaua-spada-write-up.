@@ -6,4 +6,4 @@ Após realizar a alteração e atualizar a página, o usuário passou a possuir 
 ![Análise dos cookies](./ctf.png)
 
 
-FLAG{C00K1E_M0NST3R_MUNCH}
+Resposta: FLAG{C00K1E_M0NST3R_MUNCH}
