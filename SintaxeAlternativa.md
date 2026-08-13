@@ -6,3 +6,5 @@ O código Brainfuck foi copiado e inserido na ferramenta dCode Brainfuck Decoder
 Após a execução, a saída gerada revelou o conteúdo oculto da mensagem. Em desafios desse tipo, é comum que o resultado já seja a flag ou uma nova camada de codificação a ser analisada.
 
 ![Análise dos cookies](./crypto.png)
+
+Resposta: FLAG{c0d1g0_3s0t3r1c0}
